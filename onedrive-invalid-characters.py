@@ -1,5 +1,7 @@
 import os
 
+# DON'T FORGET TO CHANGE THE PATH OF YOUR ONEDRIVE FOLDER
+
 path = "/Users/elyas/Library/CloudStorage/OneDrive-Personal"
 forbidden = ['\\ ', '/', '|', ':', '*', '?', '"', '<', '>', '�']
 counter = 0
